@@ -2,7 +2,7 @@ Sobre
 =====
 Projeto de leds num painel enorme.
 
-Licença
+LicenÃ§a
 -------
 Copyright (C) 2011 by Andre Aureliano <http://www.fiozera.com.br>
 
